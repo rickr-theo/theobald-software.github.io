@@ -1,7 +1,7 @@
 ---
 ref: xtract-universal-19
 layout: page
-title: Running Extractions in Swagger Editor
+title: Running yunIO Services in Swagger Editor
 description: Running Extractions in Swagger Editor
 product: xtract-universal
 parent: xtract-universal
@@ -26,7 +26,7 @@ For more information on the Swagger Editor, see [Swagger Editor Documentation](h
 2. Copy the URL of the service (![copy-URL](/img/contents/yunio/copyURL.png) icon) or download the service definition (![download-file](/img/contents/yunio/download.png) icon).<br>
 ![yunio-Services](/img/contents/yunio/yunio-run-services.png){:class="img-responsive" width="800px"}
 
-### Loading a yunIO Service into the Swagger Editor
+### Loading a yunIO Service into Swagger Editor
 
 1. Open the Swagger Editor in your browser.
 2. There are 2 ways to load a yunIO service into the swagger editor:<br>
